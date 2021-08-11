@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+#back{
+    height: 100vh;
+    background: linear-gradient(90deg,#ff7979,#ffbe76);
+   
+   
+}
+#val{
+
+    
+    
+    height: 62px;
+    margin-top: 18px;
+    width: 300px;
+    opacity: 1;
+    border-radius: 19px 0px 19px 0px;
+    font-size: larger;
+    
+
+}
+#btn-1{
+    
+    color: white;
+    background-color: #2ecc71;
+    height: 39px;
+    width: 96px;
+    margin-top: 12px;
+    border-radius: 3px solid white;
+}
+
+.content{
+    margin-top: 13px;
+    background-color: black;
+    color: white;
+    padding-top: 12px;
+    margin-left: 6px;
+    margin-top: 12px;
+}
+
+#city{
+    margin-top: 12px;
+    border-bottom: white 3px solid;
+    margin-bottom: 8px;
+
+    
+}
+#tempr{
+    margin-top: 1px;
+    margin-bottom:  16px;
+    padding:12px;
+    border-bottom: white 3px solid;
+
+}
+
+#humidity{
+    margin-top: 1px;
+    margin-bottom:  16px;
+    border-bottom: white 3px solid;
+    
+
+}
+
+
+#feels{
+    margin-top: 1px;
+    margin-bottom:  16px;
+    padding:12px;
+    border-bottom: white 3px solid;
+    
+}
+
+#cloud{ 
+    margin-top: 1px;
+    margin-bottom:  16px;
+    padding:12px;
+    border-bottom: white 3px solid;
+}
